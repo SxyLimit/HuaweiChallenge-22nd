@@ -1,6 +1,6 @@
 # HuaweiChallenge-22nd
 
-华为算法精英实战营第二十二期-高性能动态内存管理算法
+[华为算法精英实战营第二十二期-高性能动态内存管理算法](https://competition.huaweicloud.com/information/1000042168/introduction)
 
 # 赛题核心点介绍
 
